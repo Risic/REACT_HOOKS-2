@@ -1,0 +1,41 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arimo', sans-serif;
+    font-weight: 400;
+}
+
+.timer {
+    max-width: 200px;
+    margin: 25px auto;
+    padding: 20px;
+    background-color: rgb(221, 221, 221);
+    border-radius: 4px;
+}
+
+.timer p {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.timerBtn {
+    width: 100%;
+}
+
+#timerOuotput {
+    padding: 5px 10px 5px;
+    margin: 10px 0;
+    background-color: rgb(198, 198, 198);
+    border-radius: 4px;
+    font-size: 24px;
+}
+
+.startBtn {
+    margin-right: 2px;
+    width: 45%;
+}
