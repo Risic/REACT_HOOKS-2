@@ -2,7 +2,7 @@
   "name": "lec20_react-hooks-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://risic.github.io/REACT-HOOKS_PART2/",
+  "homepage": "https://risic.github.io/REACT_HOOKS-2/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
